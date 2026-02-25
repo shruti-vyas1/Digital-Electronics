@@ -1,8 +1,3 @@
-// Half Adder
-// Description: Implements Half Adder using gate-level modeling, data-flow and behavioural modelling.
-// Author: Shruti
-// Tool: Xilinx Vivado
-
 // ---------------- Gate-Level Modeling ----------------
 module half_adder(a, b, sum, carry);
 input a, b;
