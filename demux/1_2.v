@@ -1,5 +1,5 @@
 
-module demux2_1(i,s,y1,y2);
+module demux1_2(i,s,y1,y2);
 input i,s;
 output reg y1,y2;
 wire ns;
